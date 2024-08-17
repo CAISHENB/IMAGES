@@ -161,7 +161,7 @@
 			"icon_url": "https://raw.githubusercontent.com/CAISHENB/IMAGES/main/002/small/OldFriend1.png",
 			"icon_url_large": "https://raw.githubusercontent.com/CAISHENB/IMAGES/main/002/large/OldFriend1.png",
 			"tradable": true,
-			"marketable": true
+			"marketable": false
 		},
 		{
 			"itemdefid": 10012,
@@ -175,7 +175,7 @@
 			"icon_url": "https://raw.githubusercontent.com/CAISHENB/IMAGES/main/002/small/OldFriend2.png",
 			"icon_url_large": "https://raw.githubusercontent.com/CAISHENB/IMAGES/main/002/large/OldFriend2.png",
 			"tradable": true,
-			"marketable": true
+			"marketable": false
 		},
 		{
 			"itemdefid": 10013,
@@ -189,7 +189,7 @@
 			"icon_url": "https://raw.githubusercontent.com/CAISHENB/IMAGES/main/002/small/OldFriend3.png",
 			"icon_url_large": "https://raw.githubusercontent.com/CAISHENB/IMAGES/main/002/large/OldFriend3.png",
 			"tradable": true,
-			"marketable": true
+			"marketable": false
 		},
 		{
 			"itemdefid": 10014,
@@ -203,7 +203,7 @@
 			"icon_url": "https://raw.githubusercontent.com/CAISHENB/IMAGES/main/002/small/OldFriend4.png",
 			"icon_url_large": "https://raw.githubusercontent.com/CAISHENB/IMAGES/main/002/large/OldFriend4.png",
 			"tradable": true,
-			"marketable": true
+			"marketable": false
 		},
 		{
 			"itemdefid": 10015,
@@ -216,7 +216,7 @@
 			"icon_url": "https://raw.githubusercontent.com/CAISHENB/IMAGES/main/002/small/OldFriend5.png",
 			"icon_url_large": "https://raw.githubusercontent.com/CAISHENB/IMAGES/main/002/large/OldFriend5.png",
 			"tradable": true,
-			"marketable": true
+			"marketable": false
 		},
 		{
 			"itemdefid": 10016,
@@ -229,7 +229,7 @@
 			"icon_url": "https://raw.githubusercontent.com/CAISHENB/IMAGES/main/002/small/OldFriend6.png",
 			"icon_url_large": "https://raw.githubusercontent.com/CAISHENB/IMAGES/main/002/large/OldFriend6.png",
 			"tradable": true,
-			"marketable": true
+			"marketable": false
 		},
 		{
 			"itemdefid": 10017,
