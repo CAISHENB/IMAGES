@@ -278,8 +278,8 @@
 		"name_color":  "7D6D00",
 		"background_color":  "3C352E",
 		"item_slot": "generator",
-		"icon_url": "https://raw.githubusercontent.com/CAISHENB/IMAGES/main/item_10004_s.png",
-		"icon_url_large": "https://raw.githubusercontent.com/CAISHENB/IMAGES/main/item_10004_l.png",
+		"icon_url": "https://raw.githubusercontent.com/CAISHENB/IMAGES/main/caishen-items/small/item_10004_s.png",
+		"icon_url_large": "https://raw.githubusercontent.com/CAISHENB/IMAGES/main/caishen-items/large/item_10004_l.png",
 		"tradable": false,
 		"marketable": false
 	}
